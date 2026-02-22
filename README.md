@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Fusionpact-Org/assets/main/fusionpact-hero.gif" alt="Fusionpact Hero Banner" width="350"/>
 </p>
 
-<h1 align="center">🌟 Fusionpact DevOps Gauntlet: Assessment 2026</h1>
+<h1 align="center">🌟 End-To-End-Pipeline</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Cloud--Ready-brightgreen?style=for-the-badge&logo=googles-cloud&logoColor=white" title="Project Status"/>
